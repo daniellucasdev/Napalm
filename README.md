@@ -1,4 +1,3 @@
-🚨 AVISO IMPORTANTE 🚨
 
 ⚠️ ARQUIVOS PERIGOSOS ⚠️
 
@@ -9,10 +8,6 @@ Windows: arquivo_windows.bat
 Linux: arquivo_linux.sh
 
 MacOS: arquivo_macos.sh
-
-❌ NÃO EXECUTE ESTES ARQUIVOS ❌
-
-Se você executar qualquer um desses arquivos no seu sistema, você perderá todos os seus dados e poderá danificar permanentemente seu computador.
 
 📌 Propósito do Repositório
 
