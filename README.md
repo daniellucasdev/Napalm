@@ -3,26 +3,19 @@
 
 Este repositório contém três arquivos que podem travar completamente seu computador e excluir todos os seus arquivos. Eles são específicos para diferentes sistemas operacionais:
 
-Windows: arquivo_windows.bat
+Windows: windowsFrag.bat
 
-Linux: arquivo_linux.sh
+Linux: linuxFrag.sh
 
-MacOS: arquivo_macos.sh
+MacOS: macFrag.sh
+
 
 📌 Propósito do Repositório
 
 Este repositório existe apenas para fins educacionais e de conscientização sobre segurança digital. NÃO utilize esses arquivos em máquinas reais.
+Além disso, também serve como uma ótima pegadinha.
 
-🛑 Como se Proteger
-
-Nunca execute arquivos desconhecidos sem antes verificar seu conteúdo.
-
-Use máquinas virtuais ou ambientes isolados para testes de segurança.
-
-Mantenha backups atualizados de seus arquivos importantes.
-
-Evite baixar e executar scripts de fontes não confiáveis.
 
 ❗ Responsabilidade
 
-Os autores deste repositório não se responsabilizam por qualquer dano causado pelo uso indevido destes arquivos. Use este conteúdo por sua conta e risco.
+O autor deste repositório não se responsabilizam por qualquer dano causado pelo uso indevido destes arquivos. Use este conteúdo por sua conta e risco.
