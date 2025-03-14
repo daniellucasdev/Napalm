@@ -13,7 +13,6 @@ MacOS: macFrag.sh
 📌 Propósito do Repositório
 
 Este repositório existe apenas para fins educacionais e de conscientização sobre segurança digital. NÃO utilize esses arquivos em máquinas reais.
-Além disso, também serve como uma ótima pegadinha.
 
 
 ❗ Responsabilidade
